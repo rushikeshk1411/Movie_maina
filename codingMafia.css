@@ -232,7 +232,7 @@ body, input, textarea, button{
 
  .home-section{
     min-height: 100vh;
-    background-image: url('/Image_project/Background_img/background_7.jpg');
+    background-image: url('Image_project/Background_img/background_7.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
